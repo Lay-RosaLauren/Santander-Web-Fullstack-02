@@ -1,0 +1,28 @@
+.App {
+    background: linear-gradient(rgb(90, 100, 133), rgb(26, 58, 160));
+    height: 100vh;
+    width: 100%;
+    padding: 15px;
+  }
+  
+  .App input, .App button {
+    border: 0;
+    border-radius: 16px;
+    color: #fff;  
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    height: 36px;
+  }
+  
+  .App header form {
+    display: flex;
+    gap: 12px;
+  }
+  
+  .App input {
+    background-color: #333;
+    flex: 1;
+  }
+  
